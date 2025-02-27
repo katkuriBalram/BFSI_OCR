@@ -4,12 +4,16 @@
 The **BFSI OCR Project** is designed to automate the extraction of textual data from banking, financial services, and insurance (BFSI) documents and categorizing the data. This project leverages Optical Character Recognition (OCR) techniques to process documents such as bank statements, invoices, cheques, and legal forms. The extracted text is further refined through image preprocessing and post-processing steps to enhance accuracy.
 
 ## Screenshots
+
 Home Page
-![Alt Text](images/home .png)
+![Alt Text](images/home%20.png)
+
 Ai support
 ![Alt Text](images/Ai%20support.png)
+
 Picture Processing
 ![Alt Text](images/picture%20processing.png)
+
 visualizations
 ![Alt Text](images/visualizations.png)
 
