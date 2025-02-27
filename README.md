@@ -5,9 +5,9 @@ The **BFSI OCR Project** is designed to automate the extraction of textual data 
 
 ## Screenshots
 ![Alt Text](images/home.png)
-![Alt Text](images/Ai support.png)
-![Alt Text](images/picture processing.png)
-![Alt Text](images\visualizations.png)
+![Alt Text](images/Ai%20support.png)
+![Alt Text](images/picture%20processing.png)
+![Alt Text](images/visualizations.png)
 
 
 ## Technology Stack
