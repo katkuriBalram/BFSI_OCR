@@ -26,9 +26,9 @@ visualizations
 - **Data base:** Mangodb
 
 ## Necessary Installations
-...
+
  Install the dependencies mentioned in requirements.txt
-```
+
 
 Additionally, ensure **Tesseract OCR** is installed:
 - Download and install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
