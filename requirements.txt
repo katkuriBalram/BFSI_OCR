@@ -1,0 +1,11 @@
+pytesseract
+requests
+pandas
+matplotlib
+pymongo
+fitz 
+pytesseract
+PIL
+generativeai
+streamlit
+mangodb
