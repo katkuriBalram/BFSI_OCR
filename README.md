@@ -1,13 +1,13 @@
 # BFSI OCR Project
 
 ## Description
-The **BFSI OCR Project** is designed to automate the extraction of textual data from banking, financial services, and insurance (BFSI) documents. This project leverages Optical Character Recognition (OCR) techniques to process documents such as bank statements, invoices, cheques, and legal forms. The extracted text is further refined through image preprocessing and post-processing steps to enhance accuracy.
+The **BFSI OCR Project** is designed to automate the extraction of textual data from banking, financial services, and insurance (BFSI) documents and categorizing the data. This project leverages Optical Character Recognition (OCR) techniques to process documents such as bank statements, invoices, cheques, and legal forms. The extracted text is further refined through image preprocessing and post-processing steps to enhance accuracy.
 
 ## Screenshots
-![Screenshot 1]("C:\python projects\springboard\BFSI_ocr\home .png")
-![Screenshot 2]("C:\python projects\springboard\BFSI_ocr\images\Ai support.png")
-![Screenshot 3]("C:\python projects\springboard\BFSI_ocr\images\picture processing.png")
-![Screenshot 4]("C:\python projects\springboard\BFSI_ocr\images\visualizations.png")
+![Alt Text](images/home.png)
+![Alt Text](images/Ai support.png)
+![Alt Text](images/picture processing.png)
+![Alt Text](images\visualizations.png)
 
 
 ## Technology Stack
