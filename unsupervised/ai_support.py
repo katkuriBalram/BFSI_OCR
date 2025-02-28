@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import google.generativeai as genai
 
 # Configure API key from environment variable for security
-genai.configure(api_key="AIzaSyBlZTNPsO8LNO4E9GD24bjqtfLDuGSVZaE")
+genai.configure(api_key="")
 
 # Function to fetch and clean data from MongoDB
 def extract_clean_data():
